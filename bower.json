@@ -1,0 +1,17 @@
+{
+    "name": "cantoraone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cantoraone-bower.git"
+    },
+    "description": "Cantora One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
